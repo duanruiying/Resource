@@ -14,8 +14,7 @@
 ## Swift
 ### [IAP](https://github.com/bizz84/SwiftyStoreKit)
 ### [Spring 动画](https://github.com/MengTo/Spring?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
-### [下拉菜单](https://github.com/jriosdev/iOSDropDown)
-### [下拉菜单](https://github.com/KarimEbrahemAbdelaziz/SwiftyMenu)
+### [下拉菜单](https://github.com/JerryLMJ/LMJDropdownMenu)
 ### [跑马灯](https://github.com/cbpowell/MarqueeLabel)
 ### [绘图](https://github.com/AAChartModel/AAChartKit-Swift)
 ### [K线](https://github.com/h-js/KLine)
