@@ -33,3 +33,4 @@
 ### [日期时间选择](https://github.com/itsmeichigo/DateTimePicker?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 ### [图片浏览器](https://github.com/fcbox/Lantern)
 ### [卡顿监控](https://github.com/kconner/KMCGeigerCounter)
+### [二维码扫码](https://github.com/MxABC/swiftScan)
