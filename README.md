@@ -10,6 +10,7 @@
 ### [新功能引导弹窗](https://github.com/choiceyou/FWPopupViewOC)
 ### [开屏广告](https://github.com/CoderZhuXH/XHLaunchAd)
 ### [骨架屏动画](https://github.com/tigerAndBull/TABAnimated)
+### [播放器](https://github.com/renzifeng/ZFPlayer)
 
 ## Swift
 ### [IAP](https://github.com/bizz84/SwiftyStoreKit)
@@ -26,11 +27,8 @@
 ### [PopOver菜单](https://github.com/corin8823/Popover?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 ### [过渡动画](https://github.com/demonnico/PinterestSwift?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 ### [CollectionView不规则布局](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)
-### [UITableView / UICollectionView / UIScrollView的动画顶层菜单](https://github.com/Yalantis/Persei?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 ### [空状态UI库](https://github.com/dzenbot/DZNEmptyDataSet?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 ### [引导教程](https://github.com/ephread/Instructions?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 ### [日历](https://github.com/patchthecode/JTAppleCalendar?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 ### [日期时间选择](https://github.com/itsmeichigo/DateTimePicker?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
-### [图片浏览器](https://github.com/fcbox/Lantern)
-### [卡顿监控](https://github.com/kconner/KMCGeigerCounter)
 ### [二维码扫码](https://github.com/MxABC/swiftScan)
